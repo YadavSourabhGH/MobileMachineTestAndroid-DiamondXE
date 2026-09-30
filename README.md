@@ -12,6 +12,12 @@ Simple Android app with **Login → Product Listing → Product Details** flow, 
 - **APK download:** https://github.com/YadavSourabhGH/MobileMachineTestAndroid-DiamondXE/releases/latest
 - **Screen recording:** [Watch the application demo](demo/Product-App-Screen-Recording.mp4)
 
+## App Demo
+
+[![Product App animated demo](demo/Product-App-Demo.gif)](demo/Product-App-Screen-Recording.mp4)
+
+Click the animated preview to open the complete screen recording.
+
 ## Technology Used
 
 - Kotlin
