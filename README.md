@@ -10,6 +10,7 @@ Simple Android app with **Login → Product Listing → Product Details** flow, 
 - **Development time:** 2 hours
 - **GitHub repository:** https://github.com/YadavSourabhGH/MobileMachineTestAndroid-DiamondXE
 - **APK download:** https://github.com/YadavSourabhGH/MobileMachineTestAndroid-DiamondXE/releases/latest
+- **Screen recording:** [Watch the application demo](demo/Product-App-Screen-Recording.mp4)
 
 ## Technology Used
 
