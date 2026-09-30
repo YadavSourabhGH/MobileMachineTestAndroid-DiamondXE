@@ -2,6 +2,15 @@
 
 Simple Android app with **Login → Product Listing → Product Details** flow, built with Kotlin + Jetpack Compose.
 
+## Submission Details
+
+- **Candidate:** Sourabh Yadav
+- **Platform:** Android
+- **Technology:** Kotlin, Jetpack Compose, Retrofit
+- **Development time:** 2 hours
+- **GitHub repository:** https://github.com/YadavSourabhGH/MobileMachineTestAndroid-DiamondXE
+- **APK download:** https://github.com/YadavSourabhGH/MobileMachineTestAndroid-DiamondXE/releases/latest
+
 ## Technology Used
 
 - Kotlin
@@ -25,8 +34,8 @@ Simple Android app with **Login → Product Listing → Product Details** flow, 
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-dir>
+   git clone https://github.com/YadavSourabhGH/MobileMachineTestAndroid-DiamondXE.git
+   cd MobileMachineTestAndroid-DiamondXE
    ```
 2. Open the project in Android Studio (open the root folder containing `settings.gradle.kts`).
 3. Let Gradle sync automatically (dependencies resolve from Maven Central/Google — no manual setup).
